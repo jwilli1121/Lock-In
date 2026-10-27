@@ -6,7 +6,7 @@ Lock-In is a local-first personal growth dashboard for habits, health, workouts,
 
 After enabling GitHub Pages:
 
-`https://jwilli1121.github.io/lock-in-personal-growth-dashboard/`
+`https://jwilli1121.github.io/Lock-In/`
 
 ## Features
 
